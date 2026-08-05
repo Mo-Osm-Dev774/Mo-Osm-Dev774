@@ -20,7 +20,7 @@ I build full-stack web apps with the MERN stack — clean code, clear structure,
 
 ### 📌 Projects
 
-- 🕌 **[Noor Quran Web App](https://github.com/Mo-Osm-Dev774/noor-quran-app)** — distraction-free web app for reading and exploring the Quran
+- 🕌 **[Noor Quran Web App](https://github.com/Mo-Osm-Dev774/Noor-Tabsera)** — distraction-free web app for reading and exploring the Quran
 - 📚 **[Book Management App](https://github.com/Mo-Osm-Dev774/book-management-app)** — full-stack CRUD app for managing a book library
 - 💼 **[Business Management System](https://github.com/Mo-Osm-Dev774/business-management-system)** — MERN system for operations, inventory & staff
 - 🌱 **[Git & GitHub Bootcamp](https://github.com/goobolabs/git-github-bootcamp)** — bootcamp I completed on Git & GitHub fundamentals
