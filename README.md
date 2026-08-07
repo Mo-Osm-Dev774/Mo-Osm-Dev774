@@ -25,7 +25,7 @@ I build full-stack web apps with the MERN stack — clean code, clear structure,
 - 💼 **[Business Management System](https://github.com/Mo-Osm-Dev774/Business-Mangement-System)** — MERN system for operations, inventory & staff
 - 🌱 **[Git & GitHub Bootcamp](https://github.com/goobolabs/git-github-bootcamp)** — bootcamp I completed on Git & GitHub fundamentals
 
-<br
+<br/>
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Mo-Osm-Dev774&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
